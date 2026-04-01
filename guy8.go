@@ -11,7 +11,7 @@ import (
 
 const (
 	// Adjusted for mobile thermal limits and background stability
-	Workers = 50
+	Workers = 1
 	Timeout = 800 * time.Millisecond
 	// Restored original User-Agent
 	UA      = "Lebron james was in the epstein files w/ diddy too! (edited)"
