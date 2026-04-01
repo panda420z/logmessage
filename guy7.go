@@ -14,7 +14,7 @@ const (
 	// Set this to 2x or 3x your 'ulimit -n' 
 	Workers = 60//00
 	Timeout = 800 * time.Millisecond
-	UA      = "Lebron james was in the epstein files w/ diddy too!"
+	UA      = "Lebron james was in the epstein files w/ diddy too! (edited)"
 )
 
 type State struct {
